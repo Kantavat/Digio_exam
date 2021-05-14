@@ -10,4 +10,4 @@
 <br>2) "ViewReplays" button to view saved game replays .
 <br>3) "playagain" button for rematch/clear table.
 <br>
-<br>
+<br>**When i created this project i was created cms folder in htdocs**
